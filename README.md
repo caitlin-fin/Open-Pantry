@@ -1,16 +1,7 @@
 # open_pantry
 
-A new Flutter project.
+A Flutter project created by dot-team for the final project phase of the Northcoders Software Development Bootcamp.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app aims to simplify the process of donating to your local foodbank. Utlising user location data or postcode input, upon opening the app the user will be shown a list of their 10 nearest foodbanks with the corresponding locations on a dynamic map. Clicking on an individual foodbank will take the user to a new page, where more detail about the foodbank is provided, as well as a list of the foodbanks specific needs. 
