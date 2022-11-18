@@ -4,4 +4,12 @@ A Flutter project created by dot-team for the final project phase of the Northco
 
 ## About
 
-This app aims to simplify the process of donating to your local foodbank. Utlising user location data or postcode input, upon opening the app the user will be shown a list of their 10 nearest foodbanks with the corresponding locations on a dynamic map. Clicking on an individual foodbank will take the user to a new page, where more detail about the foodbank is provided, as well as a list of the foodbanks specific needs. 
+This app aims to simplify the process of donating to your local foodbank. Utilising user location data or postcode input, upon opening the app the user will be shown a list of their 10 nearest foodbanks with the corresponding locations on a dynamic map. Clicking on an individual foodbank will take the user to a new page, where more detail about the foodbank is provided, as well as a list of the foodbanks specific needs. 
+
+### APIs used
+
+- givefood.org.uk - 'the largest public database of UK food banks and the items they are requesting to have donated'
+
+- Google Maps
+
+- Postcode.io
